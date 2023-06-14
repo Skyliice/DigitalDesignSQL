@@ -1,0 +1,2 @@
+  SELECT CAST(MONTH(OrderDate) AS VARCHAR(2)) + '-' + CAST(YEAR(OrderDate) AS VARCHAR(4)) AS Month_Year, SUM(TotalDue) AS TotalIncome FROM [AdventureWorks2016].[Sales].[SalesOrderHeader]
+	GROUP BY CAST(MONTH(OrderDate) AS VARCHAR(2)) + '-' + CAST(YEAR(OrderDate) AS VARCHAR(4)) ORDER BY TotalIncome
