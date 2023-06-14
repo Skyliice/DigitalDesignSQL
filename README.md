@@ -36,7 +36,7 @@
 <Имя товара> Количество: <количество в заказе> шт.
 
 #### Результат работы программы:
-![Результат](https://github.com/Skyliice/DigitalDesignSQL/blob/main/Images/Task5.PNG)
+![Результат](https://github.com/Skyliice/DigitalDesignSQL/blob/main/Images/Task5_1.PNG)
 
 ### Задание 6.
 Вывести список сотрудников, непосредственный руководитель которых младше сотрудника и меньше работает в компании
