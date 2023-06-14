@@ -24,7 +24,7 @@
 Упорядочить по количеству купленных экземпляров по убыванию, затем по полному имени покупателя по возрастанию
 
 #### Результат работы программы:
-![Результат](https://github.com/Skyliice/DigitalDesignSQL/blob/main/Images/Task4.PNG)
+![Результат](https://github.com/Skyliice/DigitalDesignSQL/blob/main/Images/Task4_1.PNG)
 
 ### Задание 5.
 Вывести содержимое первого заказа каждого клиента
